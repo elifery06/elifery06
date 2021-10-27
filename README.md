@@ -10,6 +10,10 @@
   <code><a href="https://www.instagram.com/elifery06/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
+<p align="center"> <img width="70%" src="https://user-images.githubusercontent.com/65746583/107860542-d4b4f480-6e50-11eb-82eb-0d7e47ca8716.gif"/> </p>
+
+
+<br>
 <p align="center">
      Hello, I am Elif Eryıldırım, I am interesting in software from Turkey.
   <br>
