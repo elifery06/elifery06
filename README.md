@@ -1,6 +1,6 @@
 
 ###<h3 align="center">
-  Hello there, I'm Elif👋
+  Hi there, I'm Elif👋
 </h3>
 <h5 align="center">
   <code>
@@ -10,6 +10,20 @@
   <code><a href="https://www.instagram.com/elifery06/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
+<p align="center">
+     Hello, I am Elif Eryıldırım, I am interesting in software from Turkey.
+  <br>
+  🎓 I studying from Duzce University Computer Engineering Department.
+  <br>
+  💻 I love writing code and learn anythings about it.
+  <br>
+  📚 I developed a recipe site with ASP.net
+  <br>
+   <br>
+  📫 How to reach me: <a href="mailto: sadik.ortaoglan@gmail.com">elifery06@yandex.com</a>
+</p>
+  
+ 
 <!--
 **elifery06/elifery06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
