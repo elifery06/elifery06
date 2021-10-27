@@ -1,5 +1,15 @@
-### Hi there 👋
 
+###<h3 align="center">
+  Hello there, I'm Sadık 👋
+</h3>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/elifery06/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/elifery06" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/14926951/elifery06" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/elifery06/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
 <!--
 **elifery06/elifery06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
