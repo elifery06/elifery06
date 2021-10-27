@@ -25,7 +25,7 @@
   📚 I developed a recipe site with ASP.net
   <br>
    <br>
-  📫 How to reach me: <a href="mailto: sadik.ortaoglan@gmail.com">elifery06@yandex.com</a>
+  📫 How to you reach me: <a href="mailto: sadik.ortaoglan@gmail.com">elifery06@yandex.com</a>
 </p>
   <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
   <p align="center">
