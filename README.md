@@ -1,5 +1,5 @@
 
-###<h3 align="center">
+<h3 align="center">
   Hi there, I'm Elif👋
 </h3>
 <h5 align="center">
@@ -10,7 +10,7 @@
   <code><a href="https://www.instagram.com/elifery06/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center"> <img width="70%" src="https://user-images.githubusercontent.com/65746583/107860542-d4b4f480-6e50-11eb-82eb-0d7e47ca8716.gif"/> </p>
+<p align="center"> <img width="40%" src="https://user-images.githubusercontent.com/65746583/107860542-d4b4f480-6e50-11eb-82eb-0d7e47ca8716.gif"/> </p>
 
 
 <br>
