@@ -28,6 +28,7 @@
   <code><img title=".NetCore" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg"></code>
   <code><img title="HTML5" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg"></code>
+    <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img title="SQL" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
    <code><img title="Visual Studio Code" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png"></code>
