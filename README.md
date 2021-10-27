@@ -22,7 +22,17 @@
    <br>
   📫 How to reach me: <a href="mailto: sadik.ortaoglan@gmail.com">elifery06@yandex.com</a>
 </p>
+  <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+  <p align="center">
+  <code><img title="C#" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/cSharp.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg"></code>
+   <code><img title="Visual Studio Code" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png"></code>
+   <code><img title="GitHub" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/github.svg"></code>
   
+  </p>
  
 <!--
 **elifery06/elifery06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
