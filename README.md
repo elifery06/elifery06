@@ -18,7 +18,7 @@
 <p align="center">
      Hello, I am Elif Eryıldırım, I am interesting in software from Turkey.
   <br>
-  🎓 I am a computer engineering student at Düzce University.
+  🎓 I am a student computer engineering department at Düzce University.
   <br>
   💻 I love writing code and learn anythings about it.
   <br>
