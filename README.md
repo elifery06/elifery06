@@ -46,3 +46,6 @@
 🎯 Open to internships, collaborations, and new challenges.  
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elifery06&show_icons=true&theme=default" alt="Elif's GitHub Stats"/>
+</p>
