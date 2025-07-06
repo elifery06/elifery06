@@ -6,7 +6,7 @@
   <code>
     <a href="https://www.linkedin.com/in/elifery06/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
     <a href="https://github.com/elifery06" title="Github Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github</a></code>
-  <a href="https://medium.com/@elifery06" title="Medium Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/medium.svg"> Medium</a></code>
+  <a href="https://medium.com/@elifery06" title="Medium Profile"><img width="22" src="https://www.google.com/search?sca_esv=f1fd8b690de436c8&sxsrf=AE3TifO-e65Uww6kTuNNwnFPZpvJr8wcqg:1751819659650&q=medium.com+resmi&udm=2&fbs=AIIjpHwSU0Xn4FRaYzhfgs1jmQvOnw1dDD9iiBulB2fsjeHv6Rzi_t8nCYrA3VAYvcCIsvZtr46zps-73XVWEL76eMkvfHLfzKJUwJ3suVP5pXvygfiQNj_3esys45yKOZviRegAxO_JVfjEty0aj-QlbK-gOgj1tyaNFxFlTgyTo2Q6y1t0uMOvzEvgmW27tnJZjVLZZXIorSrYYPwChMkpBH2J-77dqNqqQtogclhRX_LOwrpoEFjbhLMldWOUFKBAvC2YwAda&sa=X&ved=2ahUKEwitlpjk1KiOAxWwX_EDHfEiJ0wQtKgLKAF6BAgSEAE&biw=1536&bih=703&dpr=1.25#vhid=kf490FoGVTOiGM&vssid=mosaic"> Medium</a></code>
 
  
 </h5>
