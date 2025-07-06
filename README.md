@@ -33,13 +33,14 @@
 ## 🛠 Languages, Frameworks & Tools
 
 <p align="center">
-  <img title="C#" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/cSharp.svg" alt="C#" />
-  <img title=".NET Core" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg" alt=".NET Core" />
-  <img title="HTML5" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg" alt="HTML5" />
-  <img title="CSS3" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg" alt="CSS3" />
-  <img title="JavaScript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
-  <img title="SQL" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" />
-  <img title="Visual Studio Code" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png" alt="VS Code" />
-  <img title="Visual Studio" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png" alt="Visual Studio" />
-  <img title="GitHub" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/github.svg" alt="GitHub" />
+  <img title="C#" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/cSharp.svg" alt="C#" />
+  <img title=".NET Core" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg" alt=".NET Core" />
+  <img title="HTML5" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg" alt="HTML5" />
+  <img title="CSS3" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg" alt="CSS3" />
+  <img title="JavaScript" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
+  <img title="SQL" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" />
+  <img title="VS Code" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png" alt="VS Code" />
+  <img title="Visual Studio" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png" alt="Visual Studio" />
+  <img title="GitHub" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/github.svg" alt="GitHub" />
 </p>
+
