@@ -22,22 +22,6 @@
 
 ---
 
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/cSharp.svg" alt="C#" width="30" height="30"/>
-  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg" alt=".NET Core" width="30" height="30"/>
-  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg" alt="HTML5" width="30" height="30"/>
-  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg" alt="CSS3" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="30" height="30"/>
-  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png" alt="VS Code" width="30" height="30"/>
-  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png" alt="Visual Studio" width="30" height="30"/>
-  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/github.svg" alt="GitHub" width="30" height="30"/>
-</p>
-
----
-
 ## ✨ About Me
 
 🌼 I’m Elif, passionate about coding and creating.  
