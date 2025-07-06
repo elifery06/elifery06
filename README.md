@@ -15,6 +15,9 @@
   <a href="https://github.com/elifery06" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+   <a href="https://medium.com/@elifery06" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 ---
