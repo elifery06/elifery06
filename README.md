@@ -1,46 +1,45 @@
-<h3 align="center">
-  Hi there, I'm Elif 👋
-</h3>
+<h1 align="center">Hi 👋, I'm Elif</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elifery06/" title="LinkedIn Profile">
-    <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/elifery06" title="GitHub Profile">
-    <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg" alt="GitHub" />
+  💻 Computer Engineering student from Turkey <br>
+  🌱 Currently learning & improving my web development skills <br>
+  📚 Developed a recipe website with <b>ASP.NET</b> <br>
+  📫 Reach me at: <a href="mailto:elifery06@yandex.com">elifery06@yandex.com</a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elifery06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/elifery06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
-  <img width="40%" src="https://user-images.githubusercontent.com/65746583/107860542-d4b4f480-6e50-11eb-82eb-0d7e47ca8716.gif" alt="coding" />
+  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/cSharp.svg" alt="C#" width="30" height="30"/>
+  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg" alt=".NET Core" width="30" height="30"/>
+  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="30" height="30"/>
+  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png" alt="VS Code" width="30" height="30"/>
+  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png" alt="Visual Studio" width="30" height="30"/>
+  <img src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/github.svg" alt="GitHub" width="30" height="30"/>
 </p>
 
 ---
 
-### 👩‍💻 About Me
+## ✨ About Me
 
-<p align="center">
-  Hello, I am <b>Elif Eryıldırım</b> — a passionate Computer Engineering student from Turkey.  
-  <br>🎓 Currently studying at <b>Düzce University</b>.  
-  <br>💻 I love writing code and learning anything about software development.  
-  <br>📚 I developed a <b>recipe website</b> with <b>ASP.NET</b>.  
-  <br><br>
-  📫 Reach me: <a href="mailto:elifery06@yandex.com">elifery06@yandex.com</a>
-</p>
+🌼 I’m Elif, passionate about coding and creating.  
+🎓 Computer Engineering student at Düzce University.  
+🧩 Interested in backend & frontend technologies, maps & data, and clean code principles.  
+🎯 Open to internships, collaborations, and new challenges.  
 
 ---
-
-## 🛠 Languages, Frameworks & Tools
-
-<p align="center">
-  <img title="C#" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/cSharp.svg" alt="C#" />
-  <img title=".NET Core" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/dotnetcore.svg" alt=".NET Core" />
-  <img title="HTML5" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/html5.svg" alt="HTML5" />
-  <img title="CSS3" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/css.svg" alt="CSS3" />
-  <img title="JavaScript" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" />
-  <img title="SQL" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" />
-  <img title="VS Code" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/vscode.png" alt="VS Code" />
-  <img title="Visual Studio" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/visualstudio.png" alt="Visual Studio" />
-  <img title="GitHub" width="25" height="25" src="https://github.com/Sadikortaoglan/Sadikortaoglan/blob/master/images/github.svg" alt="GitHub" />
-</p>
-
