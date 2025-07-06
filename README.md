@@ -49,3 +49,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elifery06&show_icons=true&theme=default" alt="Elif's GitHub Stats"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elifery06&theme=default" alt="Elif's Streak Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifery06&layout=compact" alt="Elif's Top Languages"/>
+</p>
