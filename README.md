@@ -6,7 +6,7 @@
   <code>
     <a href="https://www.linkedin.com/in/elifery06/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
     <a href="https://github.com/elifery06" title="Github Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/github.svg"> Github</a></code>
-  <a href="https://medium.com/@elifery06">Medium</a>
+
 </code>
 
  
