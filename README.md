@@ -42,17 +42,3 @@ I enjoy developing modern frontend interfaces, designing REST APIs, and creating
 - Improving UI/UX and responsive design
 - Learning system architecture and cloud technologies
 
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=elifery06&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elifery06"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifery06&layout=compact"/>
-</p>
